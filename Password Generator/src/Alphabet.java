@@ -1,6 +1,3 @@
-
-
-
 public class Alphabet {
 	
 	public static final String UPPERCASE_LETTERS = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
